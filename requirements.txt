@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+streamlit
+joblib
+openpyxl
+langchain
+langgraph
+langchain-huggingface
+python-dotenv
+huggingface_hub
+langchain-community
+sentence-transformers
